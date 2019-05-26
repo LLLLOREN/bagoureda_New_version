@@ -1,0 +1,12 @@
+body{
+    font-family:BiauKai;
+}
+/*head*/
+.head{
+
+}
+.head_bg{
+    background: url("../imgs/bg_h.png");
+    height: 100%;
+    width: 100%;
+}
